@@ -7,11 +7,11 @@ export default class NavBar {
     navBar.className = "nav-top";
 
     navBar.innerHTML = `
-         <p>this is header</p>
+         <p>INC. Banking</p>
          <div>
             <a>Menu</a>
             <a>Shop</a>
             <a>Contact</a>
-         </div>`;
+         </div>`.toUpperCase()
   }
 }
