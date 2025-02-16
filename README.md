@@ -1,4 +1,4 @@
-This is a simple financial controller.
+This is a simple financial controller.  (NOT FINISHED YET)
 
 Here you can add your expenses, withdraws, incomes to the list and calculate your needs.
 
