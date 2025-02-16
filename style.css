@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 62,5%;
+}
+
+body {
+  background-color: rgb(14, 13, 13);
+  display: flex;
+  justify-content: center;
+}
+
+.nav-top {
+  background-color: transparent;
+  color: white;
+  width: 95vw;
+  height: 5vh;
+  display: flex;
+  justify-content: space-between;
+  margin: 5px;
+  border-radius: 2rem;
+  border: solid 2px white;
+  align-items: center;
+  padding: 0.5rem;
+  
+}
